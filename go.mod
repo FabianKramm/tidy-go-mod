@@ -1,0 +1,1 @@
+module github.com/FabianKramm/tidy-go-mod
